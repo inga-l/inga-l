@@ -10,7 +10,7 @@ Other facts that are interesting (or not) about me:
 
 I have a cat whose full name is Gianlorenzo Bernini (and yes I named him after the sculptor).
 
-I speak English and Mandarin. My French and German are functional (at least I think they are). I am also learning Japanese at the moment.
+I speak English, Mandarin, and Chinese Wu dialect. My French and German are functional (at least I think they are). I am also learning Japanese at the moment.
 
 My favourite band is Kent.
 <!--
